@@ -1,5 +1,5 @@
 # gpa_calculator
-Calculating your 4.0 GPA properly can inscrease your GPA by over 10%!
+Properly converting your McMaster 12 GPA to the standard 4.0 GPA can increase your 4.0 GPA by over 10%!
 
 This calculator converts your McMaster 12 GPA to your true 4.0 GPA.
 
